@@ -1,6 +1,6 @@
 ### Hi, I'm Justin Luciano!
 
-<img src="./justinl4 (2).jpg" style="height: 200px" />
+<img src="./justinl4 (2).jpg" style="height: 500px" />
 
 I am a recent grad of Flatiron School specializing in software engineering and developement. Before that I had a background as a professional stage actor after graduating from Marymount Manhattan College in 2014 with a Bachelor's degree in Theatre Arts and a minor in Musical theatre.
 
